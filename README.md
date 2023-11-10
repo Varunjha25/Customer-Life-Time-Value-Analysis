@@ -1,1 +1,1 @@
-# Customer-Life-Time-Vslue-Analysis
+# Customer-Life-Time-Value-Analysis
